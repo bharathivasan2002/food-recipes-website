@@ -51,7 +51,7 @@ else{
   return (
     <div style={{backgroundColor:'#f5edde',height:'100%'}}>   
         <div style={{width:'100%',display:'flex',justifyContent:'space-between'}}>
-        <div className='titlelogo' style={{margin:'10px 5px'}}><span><SiFoodpanda className='mx-2'></SiFoodpanda></span>Test Temptation</div>
+        <div className='titlelogo' style={{margin:'10px 5px'}}><span><SiFoodpanda className='mx-2'></SiFoodpanda></span>Tasty Temptation</div>
         <NavLink to={'/searchresult/:'}>
          <IoCloseOutline style={{width:'30px',height:'30px',margin:'10px',color:'red'}}/>
         </NavLink>

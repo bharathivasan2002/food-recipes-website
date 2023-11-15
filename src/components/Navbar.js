@@ -19,7 +19,7 @@ function Navbarcom() {
     <>
     <Navbar expand="lg" className='navbar'>
       <Container fluid className='py-md-1'>
-        <Navbar.Brand href="#" style={{color:'white'}} className='titlelogo'><span><SiFoodpanda className='mx-2'></SiFoodpanda></span>Test Temptation</Navbar.Brand>
+        <Navbar.Brand href="#" style={{color:'white'}} className='titlelogo'><span><SiFoodpanda className='mx-2'></SiFoodpanda></span>Tasty Temptation</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
