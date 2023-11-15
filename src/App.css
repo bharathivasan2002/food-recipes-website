@@ -1,0 +1,30 @@
+.App {
+  height: 100%;
+  text-align: center;
+  /* background-color: #D0E7D2; */
+  background-color: #f5edde;
+}
+.navbarbtn{
+  border: none;
+  border: 1px solid #f5edde;
+  background-color: transparent;
+  padding:0px 20px;
+  border-radius: 5px;
+  color: #f5edde;
+}
+.navbarbtn:hover{
+  background-color: #f5edde;
+  color: black;
+}
+.navbarbtnsecond{
+  border: none;
+  border: 1px solid #113946;
+  background-color: transparent;
+  padding:0px 20px;
+  border-radius: 5px;
+  color: #113946;
+}
+.navbarbtnsecond:hover{
+  background-color: #113946;
+  color:#f5edde;
+}
